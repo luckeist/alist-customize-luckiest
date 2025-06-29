@@ -42,7 +42,7 @@ body::before {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://imgur.la/images/2025/06/29/e632c189bf39158734ebadf9240c3d7.jpg); /* 背景图片，可自行替换 */
+  background-image: url(https://imgur.la/images/2025/06/29/e632c189bf39158734ebadf9240c3d7.jpeg); /* 背景图片，可自行替换 */
   z-index: 0;
 }
 
